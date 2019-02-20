@@ -12,5 +12,4 @@ https://iw01.xyz<br>
 https://github.com/av01tv/url/blob/master/mirrors.json
 
 
--In english-
-This is a page for publishing new URL for the website av01.tv, which is blocked by some country. To avoid censorchips we need to make mirror sites and publish theses URL to a non-blocked websites.
+English: This is a page for publishing new URL for the website av01.tv, which is blocked by some country. To avoid censorchips we need to make mirror sites and publish theses URL to a non-blocked websites.
