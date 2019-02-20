@@ -8,3 +8,6 @@ av01.tv 新地址發佈
 https://iw01.top<br>
 https://iw01.xyz<br>
 
+各路朋友如需加入本站鏡像鏈接, 可以利用下面的json鏈接方便自動程式運作, 我們會同步更新, 如有建議請在Issues提出。
+
+https://github.com/av01tv/url/blob/master/mirrors.json
